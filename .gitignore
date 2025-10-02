@@ -1,6 +1,6 @@
 HELP.md
 NOTES.md
-docs/interview_prep.md
+docs/interview_prep.md/
 target/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
